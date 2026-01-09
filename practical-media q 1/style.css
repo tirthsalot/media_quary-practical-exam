@@ -63,8 +63,9 @@
 }
 .section1 img{
     /* padding-top: 20px; */
-    width: 90vw;
+    width: 100%;
     object-fit: cover;
+    margin-top: 20px;
 }
 .section2{
     justify-content: center;
